@@ -35,7 +35,11 @@ If you already have a personal Gmail, you can use it. If not, create one at http
 **Common mistake:** If Google asks for a credit card, you accidentally tried to enable billing. Close that dialog — you do not need billing for this project.
 
 ### 0.3 Enable BigQuery Sandbox (5 min)
+
+Check the well known free dataset
 <img width="2447" height="1292" alt="image" src="https://github.com/user-attachments/assets/72b54d3f-2cfd-4f93-a0e4-691af1eb9f58" />
+
+
 
 1. In the left nav, `Click → BigQuery`. (If you don't see it, type "BigQuery" in the top search bar and click the result.)
 2. The first time you open it, BigQuery activates the Sandbox automatically. You'll see a yellow banner at the top that says "Sandbox" — that's good.
@@ -44,7 +48,9 @@ If you already have a personal Gmail, you can use it. If not, create one at http
 **Done when:** You see the BigQuery Studio interface with a yellow "Sandbox" banner at the top.
 
 ### 0.4 Pin the public dataset (3 min)
-
+Select the target dataset
+https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2sga4_obfuscated_sample_ecommerce
+<img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/f94f664c-da30-4902-abef-d085f8c05731" />
 The dataset name `bigquery-public-data.ga4_obfuscated_sample_ecommerce` looks intimidating. It just means: *project = `bigquery-public-data`, dataset = `ga4_obfuscated_sample_ecommerce`*. Public datasets live in the shared `bigquery-public-data` project that Google maintains. To make it visible in your sidebar:
 
 1. In the BigQuery Explorer pane (left side), `Click → "+ ADD" → "Star a project by name"`.
