@@ -1,0 +1,3041 @@
+(Brave Meetings) and we'll be
+having a recording. So if you
+are not able to attend (Brave
+Meetings) the live session,
+you can still attend the uh
+take a look at the
+(Brave Meetings) recordng
+though. Yeah. you can always
+benefit from love session by
+(Brave Meetings)
+questions right away uh or to
+have discussions with me
+(Brave Meetings) or with the
+ith the classrnates. Um
+(Brave Meetings) so today uh
+'II be kicking off the first
+•on of
+(Brave Meetings) the um the
+data analytics project Uh I
+add (Brave Meetings) the e-
+cornmerce in the first in the
+beginning jLßt because
+(Brave Meetings) the industry
+um about this project the
+topic about this project is
+(Brave Meetings) in the e-
+commerce industry. IJm it
+actually appies to any other
+(Brave Meetings) data
+analytics urn like projects or
+interview preparation. (Brave
+Meetings) If you are in the
+phase of preparing for an
+interview in the future
+(Brave Meetings) this
+experience can also help you
+from yeah you know (Brave
+Meetings) in not only the e-
+commerce but also in other
+um
+(Brave Meetings) various uh
+various different kinds of
+industries data analytics
+(Brave Meetings) preparation.
+Uh today's session will be not
+(Brave Meetings) uh we'll be
+uh just giving giving a
+welcome welcome (Brave
+Meetings) introduction uh I'll
+be sharing more about
+industry uh insights about
+
+1:12
+1:20
+1:28
+1:36
+1:44
+1:52
+2:00
+2:08
+2:16
+(Brave analytics
+specifically in 202 um and
+then we•ll be kicking off (Brave
+Meetings) the pr0ect I'll be uh
+listing out the
+(Brave Meetings) and uh what
+are the of the
+project we what you will be
+(Brave Meetings) getting uh at
+the end of the project we
+had a
+(Brave Meetings) so-called
+intro like rick zero session last
+(Brave Meetings) week uh to
+give a very raw intro about
+(Brave Meetings) ourself
+mrselves as well as the
+project logistics today will be
+more (Brave Meetings) about
+Eke the content of the project
+(Brave Meetings) so let's get
+started starting with the
+know a (Brave Meetings)
+very short brief intro about
+ourself
+(Brave K4eetings) uh we
+actually uh the brave actuany
+in (Brave Meetings)
+2021 for personalized
+mentorships in the beginning
+(Brave Meetings) provided
+um the help to anyone who
+are in the (Brave Meetings)
+different career stages. For
+example, people are
+from a jLT1ior to
+(Brave senior or
+switching their career from a
+physics (Brave Meetings) to
+data analytics wants to
+lard a job uh
+(Brave Meetings) after
+frnmigration or wants to get a
+job after graduation. (Brave
+Meetings) IJm they all need
+sort of uh kind of help. We're
+here to actually
+
+2:24
+2:32
+2:40
+2:48
+2:56
+3:04
+3:12
+3:20
+(Brave K4eetings) help them
+by you know the
+experierEe first and also
+(Brave K4eetings) prepare
+them interview ready. Urn so
+this is the way that first
+(Brave Meetings) the first first
+step is to get more
+experience on your resume so
+that you can (Brave
+actually have to
+say during the
+(Brave Meetings) IJm if you
+want to take a look at
+about ourself uh you're more
+than (Brave Meetings)
+welcome to look at into our
+official website
+(Brave Meetings) I'll be VII
+be taking a little bit more tirne
+ike at the end of this session
+to introduce (Brave Meetülgs)
+more about our website
+Uh I will be like
+following
+(Brave Meetings) uh continue
+our project first. (Brave
+Meetings) Urn yes, today'S
+agenda will be like welcorne.
+talking
+(Brave Meetings) a fittle bit
+more about irdustry insights.
+Uh and the pr0ect overview
+and (Brave K4eetings) kickoff.
+Uh last but not least Wi" be
+the tirneline and
+(Brave Meetings) logistics. IJm
+so a fittle bit a little bit about
+myself. (Brave Meetings)
+my narne is Eing. Uh I've been
+uh a machine leaming
+engineer at Lobla Digital in
+(Brave Meetings) the past. Uh
+currently I'm full-tirne working
+for Brave. I •m one of the
+(Brave Meetings) co-founders
+at Brave. in the past I've
+also
+3:28
+3:36
+3:44
+3:52
+4:00
+4:08
+4:16
+4:24
+4:32
+(Brave Meetings) um working
+as a data scientist and also
+analytics uh related (Brave
+Meetings) robes in different
+industries telecornrnunication
+(Brave bell uh
+startups and also uh been
+also working in (Brave
+Meetings) the
+industry as we" in the past um
+(Brave Meetings) I've been uh
+like uh in in in touch with
+(Brave Meetings) dfferent um
+like data
+(Brave Meetings) cfifferent
+industries so I I know a very
+very um like (Brave
+Meetings) systematical way to
+uh and
+(Brave data in
+different industries. So e-
+cornmerce is one of things
+that in (Brave Meetings) my
+uh that I'm good at uh Ike
+happen to because I I lwe
+(Brave Meetings) Lobla dW
+is actually a substant where
+(Brave Meetings) we prwide
+frltegrated Al services to all
+the banners across L±la
+(Brave Meetings) as um like
+shoppers rockart and blah
+blah (Brave Meetings) e-
+commerce. Urn so my team
+has been actually working on
+search and recommendations.
+so we
+(Brave Meetings) we want to
+make sure that the data uh
+whenever you are searching
+uh in (Brave Meetings) the
+like in the search bar
+we can provide the
+customized results
+(Brave Meetings) based
+on your uh based on your
+profile so that if you if (Brave
+Meetings) you type apple and
+if I'm typing Apple we
+end up4:40
+4:48
+4:56
+5:04
+5:12
+5:20
+5:28
+5:36
+5:44
+(Brave Meetings) having
+different uh iPo related
+products in the search result
+(Brave Meetings) page. Um
+okay so yeah uh there wil be
+more guest
+(Brave Meetings) speakers in
+the the following sessions
+and I'll be also (Brave
+Meetings) introducing one of
+the key guest speakers uh
+this will be also talking more
+about
+(Brave Meetings) the uh
+product specific uh
+perspective in the (Brave
+Meetings) later session uh of
+the uh of the I tffnk
+(Brave Meetfrlgs) it's session
+Six or seven uh where dil has
+been actually uh (Brave
+Meetings) working as the pro
+director of product
+managernent uh
+(Brave Meetings)
+grocery and uh retal industry.
+He•s been (Brave Meetings)
+also working as a manager in
+the Amazon. So he know how
+big
+(Brave Meetings)
+corporations like dealing with
+data and frorn his perspective
+view (Brave Meetings) of like
+how data has been
+uh in different
+(Brave
+corporations. Uh yeah um lill
+be also inviting him over
+(Brave Meetings) for for for a
+guest lecture um uh in
+(Brave Meetings) week six or
+week seven. So. so there
+there's (Brave Meetings)
+sorne like a little bit more
+about the industry insights
+today. Uh as
+(Brave Meetings) I just
+mentioned every for every
+company when by the time
+that they (Brave Meetings)
+are hiring the the hope
+there •s a bonus point for you
+
+•00
+•08
+•16
+•24
+•32
+•40
+•48
+•56
+c iS ornatn
+It's it's okay if you dorn have
+it but if (Brave Meetings) you
+have it uh it's easier to
+communicate the
+during tve you
+(Brave Meetings) know
+interviews. Um uh so one of
+the things that uh (Brave
+Meetings) e-commerce data
+analytics is something that
+you can they they expect you
+(Brave to ex$ress
+your urxierstanding or your
+experience uh with (Brave
+Meetings) e-commerce. Uh
+so one of the key things that
+uh that we can
+(Brave Meetings) uh teach you
+or we can let you to explore
+by yourself during this (Brave
+Meetings) project is wn by
+with tie progress of the
+(Brave Meetings) learning you
+can more about the the
+nature (Brave Meetings) or
+the uh in-depth domain
+knowledge of the e-
+(Brave industry. Urn
+e-commerce industry actually
+is an itxiustry that (Brave
+Meetings) emerged uh since
+like the development Of the
+internet where they want to
+you know open
+(Brave a store
+instead of like a brick and
+mortar uh Eke retail (Brave
+Meetings) store. They they
+they just put every uh like
+(Brave Meetings) product
+product items onfine for you
+to Shop. so they can Ship it to
+(Brave Meetings) you or allow
+you to pick it up um
+yourself.
+(Brave Meetings) IJm so um
+the specific industry of the e-
+commerce can be (Brave
+Meetings) in very different uh
+look Eke formats such as
+grocery
+
+(Brave Meetings) e-
+commerce or Ike specific
+electronic e-commerce or it'S
+just (Brave Meetings) the like
+Amazon. So Arnazon is like a
+collection of everyti•ülg
+(Brave Meetings) e—commerce
+except grocery. Walmart is the
+collection of grocery (Brave
+Meetings) plus everything
+else. So Loblaw is more like a
+(Brave Meetings) oriented. so
+it's it's all different kinds of e-
+cornmerce uh (Brave
+Meetings) analytics. So why
+e-commerce has been Eke so
+popular
+(Brave Eleetings) not so
+popular has been popular in
+the in the past let's say
+decades. (&ave Meetings)
+Urn so as international tracfing
+has been very popular
+(Brave Meetings) like you can
+you can nowadays buying like
+timo or (Brave Meetings)
+Shang itans Eke uh um like
+(Brave Meetings) overseas.
+So those things um
+supported Eke a majority of
+(Brave Meetings) the trading
+um like volume in
+(Brave Meetings) Canada'S
+nowadays trading um
+business and (Brave
+Meetings) uh that's to be and
+to see for you for yourself you
+can buy something
+(Brave Meetings) werseas
+very easily and the convany
+who operates those uh
+(Brave Meetings) websites
+wants to hire malytics
+uh consatants
+(Brave Meetings) or either
+full -time or contractors or
+hiring frorn the (Brave
+Meetings)
+cornparies to help them to
+help them either establish a
+wen (Brave Meetings) analytical uh
+system or to help them to
+(Brave Meetings)
+diagnose what what's
+happening w•ith their current
+you know target.
+(Brave Meetings) Um so there
+might be SÜne challenging
+and in (Brave
+Meetings) the field. Urn for
+sure With the like vast
+(Brave Meetings) growth uh
+Ike very fast growth of the
+you know like the sales (Brave
+Meetings) volume there the
+opportunities are everywhere
+actually they can either
+(Brave Meetings) operate
+more markets such as you
+know open Smjth American
+(Brave mÜket or to
+more categories Of
+the item or to
+(Brave Meetings) introduce
+their own you know like
+products. The chdlenges can
+be (Brave Meetings) also very
+chalknging because they
+need to you know to utilize
+(Brave Meetings) sorne of the
+uh resmjrces to promote
+items which have the (Brave
+Meetings) most most
+potential or to Why
+(Brave Meetings) something
+is Ike uh the the sales is not
+happening we" in (Brave
+Meetings) in sorne areas or
+for some groLQ subgr0LQ of
+(Brave Meetings) customers.
+urn uh or to prevent the
+website (Brave Meetings)
+uh get uh get get
+(Brave Meetings) attacks. Uh
+so those are au the things
+that the e-comrnerce
+companies (Brave
+Meetings) Eke uh hiring Eke
+analytical tools to help them
+to analyze (Brave Meetings) uh dfferent
+frings. Um there there are
+there ike also I will be (Brave
+Meetings) also happy to share
+some of the common
+interview processes. IJm this
+(Brave Meetings) actually
+applies to any other interview
+like (Brave Meetings)
+analytical roles. So um at
+most uh there will be
+(Brave Meetings) f0LM rounds.
+So norrnally the interview for
+those are
+three (Brave Meethgs)
+rounds. ore of my recent
+urn mentee
+(Brave Meetings) who went to
+the IZense. So it's license is
+also a (Brave Meetings)
+Montreal based so-called
+luxury uh
+(Brave Meetfrlgs) products
+uh e-commerce seler. IJm
+so he•s (Brave Meetings)
+been actually interviewing I
+think three rounds. Yeah. uh
+most
+(Brave Eleetings) fikely it
+be similar to any other
+ilterview data
+analytics. The first one
+(Brave Meetings) wil be
+herment uh HR. So you •II be
+actually talking with you
+(Brave Meetings) the the HR
+people human resmrces
+people to talk more (&ave
+Meetings) about yourself to
+to see whether you can
+express yourself well um
+(Brave Meetings) to handle
+different situational
+questions. This is very easy
+(Brave Meetings)
+straightforward. You should
+be able to prepare well for
+all kinds of like (Brave Meetings) questions
+in in this round. Um so the
+second one is more Eke uh
+(Brave Meetings) taking with
+the managers where where
+the manager will be asking
+more about your experience.
+(Brave Meetings) imagine
+that a manager will be
+holding a resume that he or
+she will be asking questions
+(Brave Meetings) specifically
+on one Of your resume
+and ask foUow—
+up questions.
+(Brave Meetings) so you
+need to be actually be able
+to actually answer all all
+those questions (Brave
+Meetings) and uh be
+prepared to ask uh to
+answer challenging
+questions
+(Brave such as
+why this why not that. Yeah.
+What's your what's (Üave
+Meetings) your thinking
+process? I-ke those those
+kind of things. I'll be I'll I'll be
+I'll be
+(Brave Meetings) uh giving
+more detailed examples
+later. (Brave Meetings) Um
+so definitely in terms of
+requirements um people are
+(Brave Meetings)
+about like Vhat if what are
+the hard skill requirements
+that I need to (Brave
+Meetings) equipped uh
+order to be like um qualify for
+(Brave Meetings) roÄ so
+and uh what are the Ike uh is
+there any (Brave Meetings)
+other uh like academic
+requirements um Vhether
+(Brave Meetings) like my
+degree is matching this kind
+Of like uh job opportunity
+(Brave Meethgs) job job
+descriptions or not. Uh from
+our past three years of
+c (Brave Meetings) like my
+degree is matching this kind
+of like uh job opportunity
+(Brave Meefrlgs) job job
+descriptions or not. Uh from
+our past three years of
+(Brave Meetings) the
+experience for data
+analytical roles. You don't
+necessarily need (Brave
+Meetings) to have a very so-
+called rnatching degree
+because we•ve been
+(Brave Meetings) having
+rrE•ntees from arts and frorn
+different like a (Brave
+bleetings) very non like so-
+caned technical degrees to
+(Brave Meetings) land a job
+in analytics role. Urn because
+at at the erd of the day the
+(Brave Meetings) analy and
+the analytical roles entry bar
+for in terms of
+(Brave Meetings) academic
+background is not strictly
+hard unless you •re focusing
+on (Brave Meefrlgs)
+specifically one uh area
+such as like healthcare data
+(Brave Meetings) analytics
+which haülg the healthcare
+related uh academic
+background (Brave
+Meetülgs) will benefit you
+frorn getting more
+such as B stats
+(Brave Meetings) or
+healthcare like
+uh like (Brave Meetings) uh
+master degrees Ike that. Um
+(Brave Meetings) let's uh
+let's continue. Okay. Yeah- so
+let's (Brave Meetings) uh go
+to the data analytics and info
+review. IJm so
+(Brave Meetings) I just have
+a very quick uh
+decornposition of different
+types of (Brave %etings)
+data professionals. Just this (Brave Meetings) anyone
+who might have the doc still
+to distinguish between let'S
+say (Brave data
+engineer urn frorn data
+analyst uh or
+(Brave data
+S&ntist between data
+Urn actually um
+(Brave Meetings) those like
+radar radar Eke for like
+(Brave Meetings) charts uh
+clearly labeled the
+correspondng responsibility
+(Brave Meetings) md uh
+required skills for different
+job title.
+(Brave Meetings) So what
+well be targeting uh in this
+case is the bottom right. So
+(Brave Meetings) data
+andyst where you need to
+be more familiar with you
+know like
+(Brave Meetings) database
+data visudizatm
+storytelling business (Brave
+Meetings) insights, then
+reporting and the
+(Brave Meetings) Um if
+you're holding master
+degree or uh (Brave
+Meetings) PhD degree uh
+you can definitely try out
+data scientist because
+(Brave Meetings) need to
+you need to leam more
+about like machire learning
+modeEng (Brave Meetings)
+uh more statistical
+as well as doing (Brave Meetings)
+experünentation. Urn but it•s
+like it's inclusive. So which
+means if you (Brave
+Meetings) can do data
+scientist you can also do
+data analyst. But if you want
+to
+(Brave K4eetings) target data
+analyst. you need to at least
+harrdle those Ike four (Brave
+Meetings) mentioned uh
+topics on bottom right. IJm
+but if you want to do more
+(Brave Meetings)
+part it's a whole
+whole different different
+story where need to do
+(Brave Meetings) you need
+to know like more
+techniques in data anal
+(Brave Meetings) database
+management as we" as data
+pipeine which means how
+to (Brave Meetings) cook
+good data how to build a
+pipefine to systematicdly
+provide a good
+(Brave Meetings) qjality Of
+the data for data analyst and
+data scientists to (Brave
+Meetings) analyze. Uh last
+but not least is the B is ttE
+top right machine
+(Brave Meetings)
+where you need to do more
+lice it's like a software (Brave
+Meetings) developer
+software engineer with
+machine learning knowledge
+where you need to do more
+about like machine
+(Brave Meetings) learning
+ops and deployment. IJm
+yeah if (Brave Meetings) you
+are interested machine
+leaming you can let
+me know I cm élare a little
+bit more (Brave Meetings) but it•s not
+actually targeted for this
+session. Urn (Brave
+Meetings) so Eke um for by
+taking this pr*ct you will be
+practicing a
+(Brave Meetfrlgs) lot in uh
+database management uh
+storytellü•vg (Brave Meetings)
+business insights as well as
+data visualizations and by
+the time you stitch
+(Brave Meetings) them
+together as a well-rounded
+reports and (Brave
+Meetings) dashboards. so
+that's the way that you can
+do your presentation. It's a a
+(Brave Meetings) of lice you
+know presentation is also a
+very good very very
+important (Brave K4eetings)
+thing uh during the interview
+and also after during the
+(Brave Meetings) uh most of
+the time I would say like for
+all our past mentees
+(Brave Meetings) who lands
+a job successfdly uh land
+offer successfully they
+(Brave Meetings) perforrn
+well during the interview and
+in the are (Brave
+Meetings) being too
+strict on their technical skills
+but rather Ike the way that
+(Brave Meetings) can rep
+present their themselves. so
+it's more (Brave Meetings)
+like if you can show your
+cornmitment during the
+interview and also your
+(Brave Meetings)
+understandü-vg of the
+business insights they're
+actually wilfing to trül you
+(Brave Meetings) train you in
+terms of Ike technical uh
+sküls but after all (Brave Meetings) later so uh
+there's a there's a quick
+question for (Brave
+Meetings) everyone uh so
+what is data analytics in in a
+company so
+(Brave Meetings) the
+process a lot from exarnining
+raw data to (Brave Meetings)
+draw conclusions and the
+support decision making. It's
+in it's it's a general
+(Brave Meetings) definition
+of data analytics. Urn but by
+the time that you're (Brave
+Meetings) working for a
+cornpany or working for any
+other lice client
+(Brave Meetings) trn you
+need to actually identify tie
+type that you are you are
+working uh (Brave Meetings)
+the type of like data
+analytics that you're working
+you're working on.
+(Brave Meetings) so can
+anyone have any idea about
+like the category (Üave
+Meetings) of data analytics
+uh like what types of
+(Brave Meetings) analytics
+um that you can thirü of in
+like you can in ymjr
+mind about (Brave
+like is there any categorical
+differences between
+different ano
+(Brave Meetings) analytics
+that can can (Brave
+Meetings) anyone like
+volunteer to to
+(Brave try? Yes.
+Uh. Anuja, that's a (Brave
+Meetings) very I don't
+if I pronounce your name (Brave Meetings) Urn. F,
+yes. yes. Uh. (&ave
+Meetings) urn. predictive
+descriptive, uh,
+(Brave Meetings) and the
+prescriptive. Yes. TO
+are very, precisely (Brave
+Meetings) so you guys are
+very urn. urn, precisely
+discrim
+(Brave Meetings) distinguish
+like the analytics Eke uh, like
+categories. so (Brave
+Meetings) there are actually
+different ways to actualy
+categorize a and like
+(Brave Meetings) like
+initiative. But uh one of the
+common ways that you
+(Brave Meetings) can
+distinguish um like analytics
+uh types
+(Brave uh follows
+with (Brave Meetings) first
+um by the time you get the
+data it's descriptive analysis
+(Brave Meetings) which is
+just very very straightforward
+right so it's what happened
+(Brave Meetings) um you just
+describe the the current
+like
+(Brave Meetings) trend or
+current uh representation of
+the data is there (Brave
+Meetings) anything that uh
+like uh mising or what's
+(Brave Meetings) the overan
+representation of the data
+and then (Brave
+the involvement of the
+human input can be can be
+(Brave Meetings) afterwards.
+The next Step WNI be
+diagnostic. so for (Brave
+Meetings) the the
+Client wants to know Ike
+(Brave Meetings) after um
+this thing happened is there
+any root cause can be
+(Brave Meetings) can be
+potentially bum or if you
+can also (Brave Meetings) help the
+cornpany or help the cfient to
+find the root cause um
+(Brave like why did
+it happen. The rEXt step is
+(Brave Meetings) predictive
+analysis is what Wi" happen
+the future or (Brave
+Meetings) if this thing you
+know Eke by the time you
+identify an
+(Brave Meetings) anomaly or
+outlier of the data if
+thing (Brave Meetings) is you
+know like its determhistic
+it's something that will be
+happening
+(Brave Meetings) again have
+the seasonality uh next
+year it will (Brave
+Meetings) happen like those
+things wil be wil involve
+predictive
+(Brave b&etings) analysis
+um which is what will
+happen. Last but not the
+beast (Brave Meetings) is
+prescriptive or prescriptive
+analysis is
+(Brave Meetings) what
+should I do? It's like by the
+time you can make more
+(Brave
+Meetings) to the decision
+making uh people that can
+help them to
+(Brave Meetings) do
+decision support u analysis
+and uh (Brave Meetings)
+whether you can also
+automate this decision
+to
+(Brave Meetings) over
+autornate the overall pipeline
+of the system given that if
+(Brave Meetings) you can
+actually trust your your your
+built uh (Brave Meetings) like let's say
+pipeline. So all of those
+ffülgs (Brave Meetings) Lrn
+stitch stitch up together um
+you can actually
+(Brave Meetings) identify like
+uh you know like the degree
+uh of your (Brave Meetings)
+analysis and the to which
+level of the analysis you can
+(Brave Meetings) launch
+towards different scenario or
+towards different problern.
+(Brave Meetings) IJm and uh
+keep that in mind. By the
+time
+(Brave Meetings) you're
+given a scenario a case
+study during the (Brave
+Meetings) interview, you
+need to actually be able to
+identify. Okay. so those are
+(Brave Meetings) level three
+which is predctive analysis
+which I will be doing or level
+two just need (Brave
+Meetings) to do the
+dagnostic which is fine. Um
+or it's also the combination
+of
+(Brave Meetings) diagnostic
+and the prescriptive. Urn and
+we (Brave Meetings) we'll
+be more like case
+studies by by the when you
+(Brave Meetings) know with
+with the progress of the
+project. I think in week four
+week (Brave Meetings) five
+ween be touching more case
+studes. Oh by the way what
+what is the case
+(Brave Meetings) study? So
+case study is one of
+the you know common most
+(Brave Meetings) cornmon
+interview Eke processes uh
+during the data (Brave Meetings) analytical
+process uh lilæ
+process where you •II be
+given (Brave Meetings) like
+one pager or two of
+description of the
+(Brave scenario
+uh and given Ike a sample
+data lees say (Brave
+Meetings) like Excel fie or
+CSV file and given like
+(Brave Meetings) four days
+or three days or week
+depending on the company
+and uh (Brave Meetings) you
+need to fike you know give
+thern a problem and then
+you're yven one
+(Brave Meetings) week, you
+need to solve the problern
+or you need to first identify
+the problern and then
+(Brave Meetings) solve the
+problem and uh prepare a
+proper point and then do
+the
+(Brave Meetings)
+presentation to the
+interviewer and uh answer
+all the fonow-up (Brave
+Meetings) questions so they
+can get past to that rourd
+So that' s case study
+(Brave Meetings) round.
+Sornetimes many like some
+very very few (Brave
+Meetings) nowadays um
+some companies are
+very extrerne
+(Brave Meetings) case study
+for you to you know give you
+only one day or (Brave
+Meetings) irwite ycn.l over to
+a on-site interview only
+gwe you
+Brave Meetings) like four
+rs to finish a case study.
+that is (Brave Meetings)
+that is when you need
+utifize au your resources
+nd past (Brave Meetings) to gererate
+a report within four hours
+which i'Eluding you know
+(Brave Meetings)
+visuaäzation analysis and
+(Brave Meetings) storytelling.
+But if you actually prepared
+have been preparing this
+before (Brave Meetings) you
+can actually have more like a
+ternplate in your mind of ike
+doing
+(Brave Meetings) this and
+put them together. Our
+project on in the other
+(Brave Meetings) hand
+the other hand be like a
+larger scale of a case
+(Brave Meetings) study
+where you can spend a
+little bit more time but (Brave
+Meetings) divülg more
+deeper uh explore
+(Brave Meetings) more urn
+potential opportunities with
+this overan (Üave Meetings)
+case study. lh so let's
+(Brave Meetings) continue.
+So how does DA work in our
+organization? So (Brave
+Meetings) of course you
+might be as I as I also
+mentioned you might be
+(Brave Meetings) actually um
+hearing that in the in the first
+one (Brave Meetings) the
+first diagram that there
+might be there may be like
+(Brave Meetings) data
+related roles in the cornpany
+and there might be many
+data (Brave Meetings)
+related positions uh in one
+team. IJm so the flow
+(Brave Meetings) data flow
+from a uh normal technical
+or (Brave Meetings) norrnal
+traditional company goes to
+the data engineer will be (Brave Meetings) actually in
+charge Of blildng uh the
+database. Your data (&ave
+Meetings) warehouse and
+the data scientist and data
+analyst the
+(Brave Meetings) data
+warehouse as input to
+support their analysis (Brave
+Meetings) where machine
+leaming engineers is
+another story. Um they just
+build model and then
+(Brave Meetings) dephy the
+rnodel. But I would say like
+um data analyst and data
+scientists are (Brave
+Meetings) working together
+very closely in the technical
+company
+(Brave Meetings) on to um
+for a same p@ect or for a
+same (Brave
+product and they get tve
+data from the database buNt
+by the data
+(Brave engineer.
+so those are the
+relationsh#js between those
+data related roles (Brave
+Meetings) in job title but in
+the team wise the thing data
+(Brave Meetings) analyst
+also supports various
+departments. Uh so you can
+be a data (Brave Meetings)
+analyst witlin the
+department or supporting
+that department's
+(Brave Meetings) work by
+Eke supporting marketing,
+operations, (Brave Meetings)
+finance. development,
+customer Urn so
+(Brave Meetings) that's
+when there's there there are
+situational (Brave Meetings)
+technical questions asked by
+the hiring manager that okay (Brave Meetings) uh here's a case where you are a data analyst or data (Brave analytical rue consultant What whichever (Brave Meetings) title that a manager want to draw. so you're let'S say (Brave Meetings) team urn in the next quarter or in the (Brave Meetings) half Of the year and the the initiatives Of that (Brave Meetings) teams is blah bah. so you need to be able to actudly (Brave Meetings) identify the key uh objective Of that (Brave Meetings) team your your like stakeholder st*eholder team (Brave Meetings) and how your analysis can help to contribute their initiative by (Brave Meetings) identifying you know the key metrics. so I'll be talking (Brave Meetings) more about more about metrics later but those are the (Brave Meetings) different scenarios that you can be a data analyst and Q]pport (Brave Meetings) various departments. Urn in the later part of the product (Brave Meetings) study. I'll be also providing more case study towards like (Brave Meetings) different that allowing you to uh the (Brave Meetings) proposal of like as a data how to support different team
+because those are real
+interview questions in (Brave
+Meetings) the past. We've
+been having different
+minties having different
+interviews
+(Brave Meetings) the
+different are
+asking the same questions.
+IJm (Brave Meetings) urn
+yeah be sharing about
+that later uh in the in the
+later part of
+(Brave Meetings) the
+product study. Um next
+thing is is (Brave Meetings)
+about data flow. Urn data
+(Brave Meetings) involves
+with normally uh dfferent
+steps sequentially. (Brave
+Meetings) So you cm do uh
+normany starts with data
+collection and you do
+(Brave Meetings) data
+manipulations normany
+consist of clearülg uh and
+uh (Brave Meetings)
+formatting and those kind of
+lice you know like data uh
+(Brave Meetings)
+things and you
+perform analysis um and
+then you (Brave Meetings)
+do visualizations and so that
+you can stitch thern
+together as
+(Brave Meetings) like making
+a storytelling and then doing
+(Brave Meetings)
+dashboarding or doing
+representations of your
+results. Last but not the
+least is (Brave Meetings) you can do
+the decision makirvg or you
+can suggest a decision
+decision support (Brave
+Meetings) systems um to
+the decision maker. Urn
+(Brave Meetings) any like the
+tools for the overall analysis
+uh (Brave Meetings) involves
+one of the most important
+thing is SQL
+(Brave Meetings) So uh I'll
+be talkirvg more about SL I
+think in rext session. IJm but
+today (Brave Meetings) VII
+be jLßt laying out what are
+the important things that
+you reed to do you need
+(Brave Meetings) to be able
+to do it. So sickle is one of
+the things that you need to
+pick up (Brave for
+sure. Urn the level of Eke
+(Brave Meetings) farnüiar Eke
+the level of circle should
+be uh matching (Brave
+Meetings) the mediurn level
+of the Ie code.
+(Brave Meetings) So uh in
+terms of the progress of
+your you know SOL study I'll
+be (Brave Meetings) also
+inviting you to you know
+(Brave Meetings) like soft
+system about like
+we will be assessing (Brave
+Meetings) your level of circle
+in the of the
+project and we'll be also
+assessing
+(Brave Meetings) the level of
+your circle at the end of the
+project so you can see your
+progress. So (Brave
+Meetings) we're actualy um
+also inviting everyone to join
+(Brave Meetings) a you know
+like uh like self uh (Brave
+Meetings) improvement
+process um of identifying
+several key uh (Brave Meetings) identifiers
+Of your technical soft
+skills uh the way.
+(Brave Meetings) so can
+see your progress then
+by the time you finish the
+project you
+(Brave can see
+not only I I did a
+project but also I can
+actually (Brave Meetings)
+know like Wnprove
+like every a*ject Of the key
+ffngs
+(Brave Meetings) related to
+this project so that maybe
+the future I can utilize (Brave
+Meetings) sorne Of the like
+uh techniques or Skilß on
+which I
+(Brave Meetings) developed
+well during this project that
+Will be something that I
+would like to see in the
+(Brave Meetings) future. IJm
+so Circle is one Of the key
+things which can you to
+(Brave Meetings) manipulate
+data. So imagine that when
+whenever you have a
+database (Brave Meetings)
+it'S one Of the most
+importmt thing is like you
+know how to extract the
+data and know you
+(Brave Meetings) you know
+where to extract the data
+and you know how to
+perform different (Brave
+Meetings) uh operations
+or Of the data
+and finany
+(Brave Meetings) krÜW
+how to do analysis with the
+data. Um by doing all of
+(Brave Meetings) things
+together pu can which can
+hap your analysis and (Brave Meetings)
+visuaizations in the next
+Step. Python on the other
+hand Will be actuany (B
+Meetings) performing the
+same level Of analysis
+equally as
+(Brave SQL It'S
+just a matter of like cf
+which
+more (Brave Meetings)
+structured analysis and
+easier analysis on Python
+(Brave Meetings) Python
+open source Ebrary uh not
+Ibraries like (&ave
+where
+there are many
+Ibraries which you can
+utilize to
+(Brave Meetings) perform
+analysis easier. IJm for
+example for some Stati
+(Brave Meetings) analysis
+you can easily import one
+library inside
+(Brave Python
+and then just call this libra
+so that the the function
+will (Brave Meetings)
+do the analysis statistical
+analysis for you. But
+(Brave Meetings) after all,
+Python is not hard at uh as
+well because it'S a (Brave
+Meetings) scriptive uh
+language. You just tell the
+language to do something
+(Brave Meetings) you and
+then they wil do also with
+the help Of the (Brave
+Meetings) GPT the level Of
+like uh Python is
+(Brave Meetings) really the
+the the necessary how do
+say this? uh the (Brave
+Meetings) level of like
+familiarize like the level of
+your (Brave actually
+Python is not that required
+(Brave to be high.
+Um they Will not test your
+like
+(Brave Meetings) coding
+coding skills uh in the
+technical (Brave
+round specifically for
+Python but rather they most
+Of the company choose to
+(Brave Meetings) use test
+SOL understanding and
+uh and uh (Brave Meetings)
+urn and writing uh Skills. so
+there might
+(Brave Meetings) be some
+convanies that require SUS
+um uh which is (Üave
+also a
+environrnent to carry SQL
+analysis. It'S just in
+(Brave Meetings) a different
+format for Python very well
+very (Üave Meetings)
+that we can see our mentees
+got
+(Brave Meetings) specifically
+like for Python for a
+(Brave Meetings)
+urn at end Of the day data
+rues uh for data
+analytical
+(Brave Meethgs) rules
+Python it •s just it'S a tod it'S
+not a you know (Brave
+Meetings) objective last but
+not least for the tools is
+about visualization
+(Brave K4eetings) so at the
+end Of the day by the time
+you you get you know you
+get your you (Brave
+Meetings) get your uh
+nunber or get your results
+you need to actually present
+to
+(Brave Meetings) your Cfient
+um client might be a
+business person so he or
+she right (Brave Meefrlgs)
+be not very sensitive to
+numbers but that thats (Brave Meetings) Why you
+need to convert the number
+into meaningfd charts. so
+the art Of (Brave Meetings)
+the number to
+the charts also is also
+something that you can
+(Brave Meetings) learn
+from many useful resources
+because you have too
+(Brave Meetings) options to
+to draw the diagram. For
+example, you have different
+(Brave Meetings) to draw
+the diagram. uh one Of
+the you know there are a
+few Of (Brave Meetings) the
+very famous ones Ike
+Tableau. R)werBl, Lucer
+StudiQ
+(Brave I-LEer urn
+there there there are built-in
+functionafities for (Brave
+Meetings) Python With
+different libraries to draw a
+good diagram
+(Brave Meetings) within
+those tools. You can also
+choose to choose
+Meetings) different
+dagrams to visualize your
+results. You can choose for
+exarnple fine
+(Brave Meetings) charts. bar
+charts, pie Charts, stacked
+bar charts or (Brave
+Meetings) just or even for a
+di [ke a map to distribute
+(Brave Meetings)
+distribution of the to show
+the distribution of
+sornething (Brave Meetings)
+geographically. So those are
+very different ways that you
+can visualize ngs your
+visualize your results. Urn it
+(Brave Meetings) it reminds
+me one of the most common
+not most but very commonly
+(Brave Meetings) asked
+questions during the data
+analytical uh interviews
+(Brave Meetings) is how do
+you present something to a
+nontechrical client.
+(Brave Meetings) So I I found
+out many
+including (Brave Meetings)
+my rnentees or our "Entees
+um find this
+(Brave question
+okay to answer but they
+never they can never be
+(Brave Meetings)
+this perfectly in the first try.
+um by the tirne that
+(Brave Meetings) the actually
+you guys are actually doing
+this pr*ct you can try
+(Brave Meetings) to think
+about this the answer of this
+of this problem and then
+(Brave Meetings) trying to
+bring up a very good
+thought or upper (Brave
+Meetings) processed
+solution or answer to this
+question
+(Brave Meetings) um that I
+believe you •II be benefit uh
+you this is will be (Brave
+Meetings) beneficial for sure
+because this is a very
+cornmonly asked questions
+uh it it has
+(Brave Meetings) different
+uh variations like how do you
+present sorne sorneone uh
+(Brave Meetings) who is non
+tech people or how do you
+explain something to a non
+(Brave Meetings) techch
+people or how do you
+showcase your client who
+are (Brave Meetings) a
+business person. So those
+are sarne question it's just a (Brave Meetings) just a
+matter of how you can
+translate your answer to a
+easily (Brave
+human readable uh
+representation. One of the
+things is is
+(Brave
+visualization. uh there are
+any other there there are
+some other option optional
+(Brave like resLAts
+which is also making sense
+but you can always pick up
+(Brave Meethgs)
+visualization as your key
+point and that you can
+surround this point to
+answer (Brave Meetings) uh
+this question okay uh
+(Brave Meetings) let's
+continue key skills hiring
+managers 100k (Brave
+Meetings) for DA roles yes
+um so we have also been
+(Brave Meetings) partner
+partnering with the
+companies to hire to help
+thern (Brave Meetings) hire
+and one of the one of the
+key tNngs that Brave has
+(Brave Meetings) developing
+in the past uh let's say one
+year specifically is (Brave
+Meetings) to business uh
+development not specifically
+to to to to
+(Brave ctßtomers.
+so are hewng some
+many to (Brave
+Meetings) hire and we so
+that we we know a lot Of Ike
+(Brave Meetings) hir
+managers right now
+although some many of
+them are not having head
+(Brave Meetings) counts in
+the in this job market but
+whenever they have it they (Brave Meetings) they•ve
+beal actua"y approaching
+us for lees say referrals or
+(Brave Meetings)
+opportunities. uh by the time
+that we are uh we're in touch
+with them urn
+(Brave Meetings) for
+analytical roles they're
+actually uh summarizing
+some of the key (Brave
+Meetings) things that they
+want to make sure that
+those things are on the
+resurne right so you need
+(Brave Meetings) to have
+technical uh skills
+specifically for circle (Brave
+Meetings) python and one of
+the visualization tods such
+as tableau
+(Brave Meetings) powerbi
+looker studo looker um and
+(Brave Meetings) it's best is
+the bonus point if you can
+utilize an of an of
+(Brave Meetings) all of those
+things on a doud platforrn
+which means you can either
+(Brave Meetings) write AWS
+or GCP, cloud or
+(Brave Meetings) the Asure
+which is Microsoft's uh
+(Brave Meetings) cloud
+platform on your resume to
+support that you have the
+experience or you
+(Brave Meetings) have at
+least you have the
+knowledge of utilizing those
+uh cloud (Brave Meetings)
+systerns because nowadays
+of the cornpanies are
+(Brave Meetings) storing
+their um data on the cloud in
+the Cloud so (Brave
+Meetings) the corresponding
+analysis can be done on
+Cloud easily. (Brave Meetings) analytical
+skils like you have to draw
+insights from data and
+(Brave Meetings) present
+them clearly. So this this skil
+normally can
+(Brave Meetings) be proved
+during the technical rounds
+like case study rounds right.
+(Brave Meetings) So last not
+the least is business
+understanding. So you can
+also knowing how
+(Brave Meetings) analytical
+analytics fits into the
+business requirernents. They
+want to know whether
+(Brave Meetings) you can
+hap you can first identify
+the problem first and then
+trying to
+(Brave Meetings)
+understand whether you can
+you can uh (Brave Meetings)
+afign the business
+requirements into your
+analysis and
+(Brave Meetings) then bring
+up your analysis and try to
+convince your the
+interviewer (Brave Meetings)
+manager that your analysis
+can is making sense or it can
+(Brave Meetings) actuany
+help the situation of the
+problem that he (Brave
+Meetings) brings or he
+brought. Uh so this is the
+(Brave Meetings) key skins
+hiring manager look for data
+uh for DA (Brave
+roles uh for the first one and
+the two points. So
+(Brave K4eetings) they can
+somehow lice uh sense
+(Brave K4eetings) during the
+conversation with you and
+for for the second and third more about how you
+know present well during
+(Brave Meetings) the case
+study or during the
+conversation of their uh
+(Brave Meetings)
+experience. Uh yeah. I think
+that's (Brave Meetings) it.
+Okay, we're here about the
+product kickoff. So, let's
+(Brave Meetings) summarize
+what what we've been
+through. so far, we've
+(Brave Meetings) actually
+covered a little bit more
+about what data analytics is
+(Brave Meetings) who we
+are as well as some like
+markets about (Brave
+Meetülgs) job uh data
+analytical jobs. And
+(Brave Meetings) uh uh last
+not the least is jißt more
+about like data (Brave
+Meetings) analytic uh the fe
+the the the nature and the
+features of the data
+(Brave Meetings) analytics.
+Urn so pu should be
+able to actually have a a
+(Brave Meetings) little bit
+more clear understanding of
+(Brave Meetings) might like
+what a data anal analyst
+is and uh what are (Brave
+Meetings) the key points that
+you to or you you
+need to like everyone
+(Brave Meetings) should uh
+should be able to uh work
+on. And uh this project
+(Brave Meetings) is actually
+the the the tool where the
+experience which can help
+(Brave you to you
+know end to end uh
+have an (Brave
+experience on a resume and
+be able to actually teu how
+you ended up (Brave Meetings) with a very
+meaningful results uh and
+also equip (Brave
+you the the the technique or
+the skills to actualy do well
+(Brave Meetings) diffing the
+case study Of your real
+interview. Urn so let's (Brave
+Meetings) Off our
+project. Okay. so the
+(Brave Meetings)
+goal so urn there's a very
+Short project (Brave
+Meetings) goal which is
+you know work as
+an ind independent
+(Brave Meetings) corlsultant
+you solve a problem end to
+um by the time
+you're (Brave Meetings)
+actually presenting your
+preect to entrepreneur you
+should be able to tell a
+(Brave Meetings) very
+cortwete Story about your
+experience which means you
+should (Brave Meetings) say
+Okay I'm '-working uh for
+brave With a
+(Brave Meetings) corsultant
+uh with the consulting
+vhere my client is
+blah blah (Brave Meetings)
+blah and tell the background
+and also be able to identify
+(Brave Meetings) um how
+you can identify the problem
+and how you brought (Brave
+Meetings) up the uh solution
+and what the Wnpact or
+what•s
+(Brave Meetings) the results
+are. Um so those (Brave
+Meeüngs) are a very
+complete you know like
+requirements of like by the
+end of the Brave Meetings) vyoject um
+ou should understand the
+problern first
+Brave Meetings) and uh um
+(ou should leam and
+different skils
+Brave Meetings) on
+iifferent platforms. So we'll
+focusing more on SOL
+Jm (Brave Meetings) and
+Python here is an
+optional but we'll be also
+python in
+(Brave Meetings) a later part
+of the study. IJm the Google
+cliNd platform (Brave
+is ttE cloud that
+we choose to use in this
+pr*ct. I-Jm
+(Brave Meetings) pu can
+always use other you know
+onEne uh (&ave
+Meetings) onlire uh cloud
+storage but stick
+with Google
+(Brave Meetings) cloud for
+you to um get rnore (Brave
+Meetings) uh get speed up
+with cloud and uh in
+terms of
+(Brave Meetings)
+visualization tool wil be
+local stucfo as default
+(Brave Meetings) ones I'll be
+also teaching Tableau
+works due to the
+(Brave Meetings) nature of
+the limitation I will not be
+teaching ourbi (Brave
+um I will be
+the sajrce of to
+utilize PowerBl
+(Brave Meetings) because
+unfortunately I •m having the
+MacBook PowerBl ONY
+(Brave Meetings) IWnited on
+the Windows uh laptops urn
+because
+(Brave Meetings) it's the
+Microsoft uh software and
+uh (Brave Meetings) um so
+you can always uh like
+instan a virtual (Brave Meetings) machine
+on your MacBook if you
+really want to do a PowerB
+to visualize your (Brave
+Meetings) results. It'S it's
+very lucky. I I've tried
+(Brave Meetings) um uh anc
+uh uh people might asking
+(Brave Meetings) be
+peg)le might be asking like
+what's the Eke what's the
+difference between like
+(Brave Meetirvs) Lucer
+or let's say Lucer
+versus
+(Brave Tableau
+because they may have a
+they may have been actually
+(Brave Meetings) observing
+from the historical job
+description (Brave Meetings)
+saying that okay this
+cornpany mly requires
+developer or
+(Brave Meetings) that
+cornpany ody requires
+Tableau or that that that
+cornpany like only (Brave
+require like a luce
+it I to my understanding it's
+the Cho
+(Brave the
+company•s choice so if the
+company is Eke is using
+(Brave Google
+cloud platform they will be
+lucer for sure because
+lucer the pro Google
+(Brave Meetings) product so
+they will use lucer for sure
+because lucer can comect
+(Brave Meetings) with the
+google cloud very easily it's
+it's just mutually like natural
+(Brave Meetings) naturdly
+connected if you're if
+they•re using Asia so which
+means (Brave Meetings)
+Microsoft suite so they
+use for sure
+because (Brave Meetings) because
+powerbi is also part of the
+uh Microsoft's (Brave
+Meetings) ike ecosystem.
+IJm and for Tableau is the
+um
+(Brave Meetings) I think Sal
+for Salesforce ecosystem.
+It's also it's (Brave
+Meetü-vgs) it's only the
+nature of like the cornpany•s
+choice. IJm and this the
+skills
+(Brave Meetings) are
+actuany ülterchangeable.
+But if you if you know how to
+(Brave Meetings) make
+visuafizations on Lucer
+Studio, it's it's it takes
+(Brave Meetings) you like
+one day or two day to be
+able to (Brave
+Meetings) same level of
+visualizations on uh PowerBl
+(Brave bleetings) Tableau or
+two hour two hour for
+Tableau (Brave Meetings)
+but maybe one day for
+PowerBl and uh
+(Brave Meetings) uh lüe the
+next point is build a report
+dashboard and (Brave
+Meetings) size of business
+impact by the time you you
+you know
+(Brave Meetings) to
+perform analysis on &cle
+uncle or (Brave
+Meetings) python to get
+results. IJm the next thing is
+to know how to
+(Brave Meetings) present
+your results by visualize the
+results and then (Brave
+Meetings) um bring them
+together as a either a report
+or as a (Brave Meetings) dashboard
+to present your restdts. IJm
+(Brave Meetings) and also
+by the time you're
+presenting your results, you
+need to uh
+(Brave Meetings) dso
+think about how you can tell
+a good story and (Brave
+Meetings) then stitch all the
+pages or all the visualization
+together in
+(Brave Meetings) order to tell
+a good story and that good
+story (Brave Meetings)
+should align with the
+business requirements
+(Brave Meetings) and to
+autornatically solve
+business problem. (Brave
+Meetings) IJm if you can also
+if you can all of them
+(Brave Meetings) can the last
+but not the least part is
+during the coffee chat and
+during the (Brave Meetings)
+interview you can also an
+kinds of experience based
+questions. So this is the
+(Brave Meetings) most
+i•nportant thing. orE of the
+most important thing. The
+second most important thing
+is (Brave Meetings) I want
+to be able to uh do ttE
+case study
+(Brave Meetings) easily
+during your you know
+interview. U but the first one
+in (Brave Meetings) order to
+get the interview or in order
+to in order to you know get
+get to the
+(Brave Meetings) techrical
+round you need to show you
+have the experierwe and you
+need (Brave MeetW1gs) to let
+pur interviewer or manager
+know that pu can uh  (Brave Meetings) you you
+have the cap to
+answer uh those questions.
+(Brave Meetings) so What
+are the questions that Will
+be cornrnonly asked during
+the coffee Chats or
+(Brave Meetings) åjring the
+interviews about those
+experiences? I'll be (&ave
+Meetings) actually uh giving
+a list u but but those
+(Brave Meetings) questions
+are actually in my rnind. I
+can uh I can I can let you
+know right (Brave Meetings)
+away. so imagine if can
+um up your
+(Brave Meetings) own
+resume. It'S a analytical
+resume and uh (Brave
+Meetüigs) uh imag like
+think about if you can
+answer those
+(Brave Meetings) questions
+um as I ask. so the first
+question (Brave Meetings) is
+uh just give me a sec.
+(Brave Meetings) Uh can
+can you hear (Brave
+Meetings) my the vacuum? I
+have I have vacuum in my
+my room. Just give me
+(Brave Meetings) a
+Okay. I-Jm. (Brave Meetings)
+so where's my where's my
+question? I have a
+(Brave Meetings) back. Oh,
+my vac (Brave Meetings)
+started. Uh. no back
+(Brave Meetings) sound.
+Okay. seems like Google map
+is Google meeting is is
+a (Brave Meetings) good
+noise cancelling story uh job.
+(Brave Meetings) I-Jh, let'S
+just resume. Okay. So there
+WNI be a fist of questions
+that um like (Brave
+Meetings) uh you need to
+prepare in order to prepare
+for only for this project
+but also Brave Meetings) for any
+r analyticd project
+g With the ot*ctive
+u (Brave Meetings)
+ike the interviewer Will be
+•ng interviewer Will be
+•ng you know Why you are
+(Brave Meetings) this do you
+know the ouectives uh Of Of
+project uh (Brave
+Meetings) Who are the
+dence so Who you are
+•ng uh
+(Brave Meetings) towards or
+working With or working for
+um the next question (&ave
+Meetings) Will be more
+about the data related
+questions They need they
+Wi" be asking questions
+(Brave Meetings) about like
+uh how did you collect the
+ata? Where did you get the
+ata? so what's the (Brave
+quality or quantity
+the data? If the quality Of
+data is not good.
+(Brave Meetings) hmq did
+you manage to the
+quality Of the data? And
+(Brave Meetings) uh and
+Eke uh next question will be
+(Brave Meetings) more
+about analytical ones. uh
+they'll be asking Eke What
+kinds (Brave Meetings) Of
+analysis did you perform in
+order to identify the
+Brave Meetings) problerns
+nd uh in machine learning
+ore related questions they
+ay ask questions ±out
+Brave Meetings) Ike the
+odeling like how did you
+which model so we'll
+not
+(Brave Meetings)
+about that in our case um
+but you need to actually
+(Brave Meetings) uh answer
+the question about like how
+why dd you choose this
+thing (Brave Meetings) to to
+analyze um I'll be talking
+more about the (Brave
+Meetings) matrix later if we
+have time Okay we have time
+(Brave Meetings) uh um last
+but not least is Ike how did
+you visualize right why did
+you choose (Brave
+Meetings) this uh plot and
+uh uh is
+(Brave Meetings) one and
+uh there's also a very
+conmon question is what's
+(Brave Meetings) the what's
+the uh what's the most
+challenging part during this
+pr*ct that
+(Brave Meetings) you've
+been doing how dd you
+manage to resolve this
+challenge (Brave Meetings)
+by doing this project you
+sh0LAd be able to
+(Brave Meetings) answer all
+those qu all Of all Of those
+questions and I also hope
+you (Brave Meetings) to be
+to answer this question
+for all of
+Brave Meetings) this
+uestions for all Of your
+periences. Urn. by doing
+hat (Brave Meetings) you
+I be able to actually pass
+round for sure because
+(Brave a very
+clear understanding of your
+experience and also be able
+to present well (Brave
+Meetings) diffing tve
+interview. Um,
+(Brave Meetings) Okay. I-Jm.
+•s a product timeline
+last couple of things
+(Brave Meetings) before
+before the next slides. uh
+week one (Brave Meetings) to six Will
+be more about like gah
+domain knowledge
+practice (Brave Meetings)
+skills. For week
+seven is more about like
+solve a chalenge
+(Brave part. so
+the so most Of the tWne
+you'll be actually start
+workfrlg (Brave Meetings) on
+a project where IT be
+addng more like uh
+(Brave bonus or
+like uh extra information or
+knowledge (Brave Meethgs)
+Of data anal analy&s which
+might be actually
+(Brave required
+the project for the
+project but it'S good uh it'S
+a (Brave Meetings) good
+add-on you Will get it When
+you are there. Urn the
+meetings Will have
+(Brave Meetings)
+discussions so get ready to
+the questions if
+(Brave Meetings) you have
+questions during the
+week. Urn What you can do
+is
+(Brave Meetings) like you
+can ask Google and CHBT I
+believe (Brave Meetings) for
+like interview qu related
+questions chatbt can
+actuany provide
+(Brave Meetings) well—
+rounded questions uh very
+very mature well-rounded
+questions (Brave Meetings)
+already so you can also ask
+in the cornrnunity group chat
+uh we have a
+(Brave K4eetings) cornrnunity
+uh group chat in our (Brave
+Meetings) um in our uh
+cornmtnity and (Brave Meetings) uh last but
+least is we'll be some
+Of (Brave Meetings) projects
+as our p@ects uh well
+be hosting hosting office
+(Brave Meetings) hour. Its
+either like bi-weekly or by
+request uh (Brave Meetings)
+or weekly depending on the
+dernands of the questions.
+(Brave IJm SO that
+you can you know
+summarize your questions
+and bring up (Brave
+Meetings) bring the
+questions to the office hour
+or just do
+(Brave Meetings) go to the
+office hour to see if
+has any Other
+(Brave Meetings) that
+be your interest or at least
+you can also ask questions
+regardng
+(Brave Meetings) to anything
+related to you know job and
+career. so I'll be happy
+(Brave Meetings) to answer
+as well because know
+technically uh I'm
+(Brave Meetings) the this
+product's mentor
+product mentor but um
+(Brave Meetings) you can
+also seek career advice um
+I'll be happy to
+(Brave Meetings) provide as
+we". so uh (Brave Meetings)
+so let's talk talk more about
+the background of this
+project. so we're
+(Brave working as
+a data you know andy
+analyst consultant (Brave
+Meetings) in the consulting
+company. so um this is the (Brave Meetings) where we
+will be the
+reference With too. so
+the time actually (&ave
+Meetings) finish the product
+with a very high quality, we'll
+be h to
+(Brave Meetings) actually
+providing you know this
+experience as your
+reference. (Brave Meetings)
+so a client's e-commerce
+department came to us and
+want to
+(Brave Meetings) see if
+there's a way to help uh
+efficiently analyze (Brave
+Meetings) and improve their
+onlhe sales performance.
+(Brave Meetings) so, this is
+rather an open-ended
+question because by the
+(Brave Meetings) time in the
+real real life experience
+(Brave um can can
+you just me a second?
+Let me turn off the (Brave
+Meetings) bolt.
+(Brave Meetings) Okay. I'm
+back. (Brave Meetings)
+where am l? Okay. I-Jm. so
+the backgrout%i Of Of
+(Brave Meetings) this p of
+this project normally um is
+(Brave a uh it'S it
+tells Ike
+(Brave Meetings) overall
+foundation of the story and
+then you (Brave Meetings)
+can
+(Brave um Okay
+um so it's it's rather a very
+(Brave
+Meetings) question. Uh
+sometimes When a client
+came to you they have a
+very clear understandng of (Brave Meetings) their
+problem is they Will they Will
+corne to you that
+know What (Brave
+Meetings) um brave let's say
+brave consulting company
+uh my sales Of
+(Brave Meetings) the my
+sales of the uh grocery
+department (Brave
+Meetings) dropped
+significantly in March of
+2024. so I would to
+(Brave Meetings) know
+what's the potential root
+cause Of this uh situation
+and is (Brave Meetings)
+there any way that you can
+help us to bring the sales
+back or to
+(Brave Meetings) prevent
+this thing from happening
+again in next year's March
+(Brave Meetings) in the
+future of the years so they
+know what's going on
+(Brave Meetings) and uh
+some clients they just came
+to us (Brave Meethgs)
+asking questions about you
+know What I just wmt some
+consulting about
+(Brave Meetings) how to
+efficiently analyze my data
+and then to identify (Brave
+Meetings) opporturities or
+the or the pitfalls
+(Brave Meetings) so that
+you can either you know
+utilize the opportunity to
+(Brave Meetings)
+more sales or to improve
+the inefficiencies
+(Brave Meetings) within my
+team. So this is more Ike
+overall consulting (Brave
+Meetings) company over
+overall consulting project.
+Um this (Brave Meethgs) is a more
+open-ended question. You
+can (Brave Meetings)
+actually urn everyone's
+results Will be this Will be
+different
+(Brave Meethgs) because
+they can pick a different
+angle to uh anchor into this
+(Brave Meethgs) pr*ct
+and then try to analyze tie
+the data and
+(Brave Meetings) then uh
+giving their own
+perspectives Of the s
+suggestims (Brave
+Meetings) after analyzing
+the overall data. Okay.
+(Brave SO SO
+this is a background. we'll
+be actualy (Brave
+Meetings) you
+know a little bit more about
+background as we actually
+proceed With the uh With
+(Brave Meetings) pr*ct.
+IJm let's just continue.
+(Brave Meetings) Okay. so
+um the Of the
+(Brave Meetings) very key
+things after you krwn you
+getting the um backgrmmd
+(Brave Meetings) is to ask
+questions to your client. IJrn
+the real case
+(Brave Meetings) scenario or
+by the time you're actually
+working in the future. (Brave
+Meetings) you can always
+have opportunities to get in
+touch with the
+(Brave Meetings) chent. If the
+Cfient is asking you questions
+to actuany help them to
+(Brave Meetings) identify
+where to um to to uh to do
+(Brave Meetings) a overall
+consulting and uh you
+should bring some (Brave
+Meetirvgs) questions to the
+first client meeting. uh we (Brave Meetings) are actuany
+developing developing our
+products to address this
+(Brave Meetings) question.
+But let's just uh irnagine that
+if you if you are
+(Brave Meetings) actualy in
+this uh first client meeting,
+What questbns WNI you
+(Brave Meetings) ask to help
+you proceed with the next
+steps of your
+(Brave Meetings) malysis?
+Can anyone has does
+anyone have any (Brave
+Meetings) question any like
+things in in their
+(Brave Meetings) mirxi? You
+can unmute yourself or raise
+hand or just type in the
+(Brave Meetings) Chat. NO.
+(Brave Meetings) Am I
+what's the what's the
+business? What's (Brave
+Meetings) the product? Past
+sales reports.
+(Brave Meetings) Yeah. so,
+those are those are those
+are very valid questions. Um
+so (Brave you
+need to know more about
+the the project uh like the
+business itself. You
+(Brave to know
+the clients uh what industry
+that the pro the cfients
+(Brave Meetings) has been
+uh doing and uh uh what are
+(Brave like items
+or the products the client
+has been seling. (Brave
+Meetings) Um next question
+is past sales reports. Yes.
+you want to
+(Brave Meetings) know for
+sure the data right. So tve
+sales reports comes With
+comes frorn (Brave
+Meetings) the data. If if the
+cient is you know is new to (Brave Meetings) the
+analytical world he or she
+might not be having a very
+(Brave Meetings)
+consolidated sales reports
+but rather just very um very
+(Brave Meetings) basic
+surnrnarization of let's say
+revenue or or cost. (&ave
+Meetings) IJm you you might
+need to actually perform
+analysis by yourself but at
+(Brave Meetings) least they
+can provide some data for
+you. (Brave
+yes, Tufa has been asking
+how many sets of data do
+you have? It's it's
+(Brave Meetings) also the
+question about the data
+source. Um Pinaki (Brave
+Meetings) has been asking
+is there a data dictionary?
+This is a very good question
+(Brave Meetings) actually.
+So uh Pinaki I don't know
+(Brave Meetings) if I
+pronounce your name
+correctly or not. Pinaki so uh
+(Brave Meetings) has been
+uh that is there a data
+dictionary? dictionary. IJm
+(Brave Meetings) its actually
+it has cfifferent explanations
+but I think in this case it's
+(Brave Meetings) it's more
+about the data mapping. It's
+like a a (Brave Meetings) a
+glossery for saying that uh
+how many database do you
+have and what are
+(Brave Meetings) the what's
+the meaning of different
+data tables? What's the
+(Brave Meetings)
+relationships between each
+table and uh even for (Brave Meetings) uh for for
+each table what are the
+meanings of each (Brave
+K4eetings) column. So this is
+something that can
+can help
+(Brave you be
+more efficient and effective
+and uh (Brave Meetings)
+by the time
+you•re uh analyzing the
+(Brave Meetings) data. Urn
+so Mark has been saying
+how much growth
+are (Brave Meetings)
+expecting the current
+year. Yeah- So this a this is
+a question that ymj are
+Brave Meetings) helping the
+ia't to define the scope of
+of their (Brave Meetings)
+s. So you can help this
+ialt to say okay know
+uh so if
+(Brave Meetings) you're if
+you corne if you corne to us
+and asking like uh what
+the (Brave Meeti'gs)
+opportunities I we we can
+help you identify you need
+to at least give us a
+(Brave Meetings) threshold
+let's say uh your
+expectation of your (Brave
+Meetings) growth right uh so
+those are very valid
+questions
+(Brave Meetings) so I will
+be listing some other ones
+just uh in I tffnk in (Brave
+Meetings) this slides uh yes
+uh so
+(Brave Meetings) those are
+sorne examples of
+that as a data (&ave
+Meetings) analytics analyst
+you that you need to ask or
+it's it•s just (Brave to ask
+cEents or you need to get
+information from some
+somewhere somewhere
+(Brave else
+the first let's say uh few
+steps of your
+(Brave an*is
+it's like you need to know
+the goal for this project
+right so you need to first
+know (Brave um
+for exarnple if the if clients
+actually have a very has a
+(Brave dear god
+which is improve sales or
+reduce (Brave Meetings)
+cost or he or she doesn't
+know She She'S he
+(Brave Meetings) just she he
+just wants you to identify
+opportunities and how do
+you (Brave Meetings)
+measure the goal? so
+measure the goal is one Of
+the key things uh
+(Brave Meetings) you need
+to be aware. You need to
+know if they have something
+in their (Brave
+rnind first or you have you
+have to convince
+(Brave Meetings) them
+about your choice. If they
+don't know how to identify
+the goal. you need to
+identify (Brave Meetings) for
+them and then convince
+them that this is the goal
+that they want. The
+(Brave Meetings) goal on
+the other hand is magic
+metrics. (Brave so
+Who are the target users
+right? So who will be benefit
+(Brave Meetings) beneficial
+after you know those
+improvements or who wil be
+(Brave Meetings)
+stakeholders during along
+the way um product
+milestones so (Brave Meetings) there
+any like time tirne Emit or
+Eke (Brave
+milestones in terrns Of like
+progres Of the project uh
+and
+(Brave Meetings) to
+accorWish the project. Last
+but not least is text (Brave
+Meetings) preferences,
+right? so do you require any
+technical
+(Brave tools that
+has been done for this
+pr*ct impkrnentation or
+you are fine With (&ave
+Meetings) any Other lice
+tools, right? so those are the
+very valid
+(Brave Meetings) questions
+that you uh you need
+to get clear With the (Brave
+Meetings) client. IJm but for
+sure the questions that
+put the Chat
+(Brave Meetings) Chats are
+also good um to help you to
+have a (Brave Meetings) like
+better Shape Of your idea.
+(Brave Meetings) And uh
+next Slide is more about the
+metrics how to (Brave
+Meetings) define the uh the
+Win right so because as I
+mentioned in the last
+(Brave Meetings) Slides how
+do you measure the goal is
+one Of the key things around
+(Brave Meetings) the overall
+pr*ct the the the all the
+things
+(Brave Meetings) that you•re
+you're doing the analysis is
+around the metrics because
+matrix (Brave Meetings) is a
+thing can tell the story frorn
+end to (Brave Meetings) end. You
+need to know what you
+know what's what the
+business (Brave Meetings)
+metrics are and uh
+whenever people are taking
+(Brave Meetings) e-
+commerce they Will tNnk
+about you know like anythhg
+about (Brave Meetings) retail
+is about Saks about it'S
+about revenue but is re
+(Brave
+really enough to define the
+the god or the (Brave
+Meetings) metric being your
+metric but obviously it'S not
+and because
+(Brave Meetings) if you
+think about the revenue its
+it'S it's (Brave Meetings) it's
+not deep enough to identify
+some potential problerns Of
+(Brave business
+uh or to identify opportunity
+points Of the (Brave
+Meetings) business. Um this
+is aßO a very good point to
+(Brave Meetings) mention
+interview related questions.
+so in (Brave Meetings)
+there a very symbofic type
+Of qu interview questions
+(Brave Meetings) urn dtring
+all kinds Of data analytical
+interviews (Brave
+or the hair Will be
+giving you a situation. He Wil
+(Brave Meetings) be he or
+She will be as asking you
+know what uh here's a
+Situation (Brave Meetings)
+where I to measure
+blah blah blah blah blah
+blah or this is the this is the
+(Brave company
+Of blah blah blah blah he
+wants to see blah blah blah
+blah and what do you think
+(Brave Meetings) are the
+most important metrics uh
+about this (Brave business so
+or about this department
+right so you need to actuany
+be (Brave Meetings) able to
+identify the metrics during
+the interview as well and also
+(Brave Meetings) during the
+case Study as well and also
+during project as well
+you need (Brave Meetings)
+to be aue to see like what's
+the relationship between the
+(Brave metrics
+that you defined towards the
+overdl god so (Brave
+Meetings) the goal is on on
+the very top point and the
+the metrics
+(Brave Meetings) on the like
+second layer which is
+supports your analysis of
+your (&ave Meetings) goal.
+Uh so we'll be actually
+talking about that later
+during the you
+(Brave Meetings) know later
+sessions of our of our
+project. (Brave Meetings)
+IJm now let's talk more
+about the data. Uh the data
+(Brave Meetings) are
+transaction sales data. so
+you'll be actuany (Brave
+Meetings) saying seeing the
+you know the transactions Of
+(Brave Meetings) um uh of
+their of the client's e-
+commerce (Brave
+Ike platforms data with
+different columns or
+different even in (Brave Meetings) different
+tables. The pr*ct the
+nature Of this project has
+been (Brave Meetings) uh
+we've been iterating our
+uh for
+(Brave cohorts
+and uh uh hopefully for this
+version Of the data we
+(Brave can
+grovide a more complex
+version Of the data so that
+you
+(Brave Meetings) benefit
+from you like playing arotmd
+With those data. Uh but for
+sure the (Brave Meetings)
+data is being privatized. so
+we censored all the users
+(Brave level
+username and those kind Of
+Stuff uh information (Brave
+Meetings) and we we made
+some suggest like
+adjustments.
+(Brave Meetings) IJrn but it
+Will not be it it will not be uh
+(Brave Meetings) that uh Ike
+uh dfferent if you if
+(Brave Meetings) the
+real world uh data in the
+know in in the in the (Brave
+Meetings) in the interview or
+uh during your real work in
+the future. um
+(Brave K4eetings) and then
+we store the data into
+Google cloud. So this is
+the (Brave Meetings) uh
+Google Google Cloud
+platform is the our to go
+Cloud
+(Brave Meetings) platform.
+Uh last but (Brave
+Meetings) least I think uh
+I •m over time. Sorry guys,
+but normany rm (Brave Meetings) over
+time. I forgot to rnention
+that uh schedule one hou
+but I I tend (Brave
+Meetings) to speü a fittle
+bit more. IJm so Google
+cloud platform
+(Brave Meetings) is
+something that we uh it•s
+a suite of cloud cMnputi
+(Brave Meetings) se
+that provides you know
+infra data storage and
+tools for data Frep
+(Brave Meetings)
+processing uh and
+analysis. Uh I (Brave
+Meetings) think I also
+rrEntioned this during the
+earlier Eke introduction of
+(Brave Meetings) the
+cloud. So I think I
+be actually reading each
+bullet (Brave Meetings)
+points but I I'm one of
+key things I want to
+mention is the last
+(Brave Meetings) point is
+like the key GCP tools
+be using. So (Brave
+Meetings) we'll be
+BigOuery. So Bitquery is
+one of the key things that
+well be
+(Brave Meetings)
+on GCP. Bigouery is
+actually a SOI language.
+It's (Brave Meetings) just
+different name of the SO
+So you will be writing
+(Brave Meetings) query
+BigOuery. So BigOuery is
+the data warehouse for
+(Brave Meetings) real-tim
+analytics and the large
+data set queries and the
+tables
+(Brave Meetings) are are
+stored stored in BigOuery
+and you need to write
+(Brave Meetings) SOL
+queries on BigOuery. Uh
+and uh the overall data (Brave set is it's
+stored in the cloud storage
+uh the (Brave
+Meetings) visuaüzation
+part is also from the GCP
+which is lucer
+(Brave Meetings) studio.
+Okay. (Brave
+Okay. so What is
+Google
+(Brave Meetings) IJm so I
+think if you are
+marketing or you are in
+charge Of (Brave Meethgs)
+marketing stuff you Wi"
+be actually uh hearing
+(Brave more
+about G4 Google anal
+(Brave Meetings)
+I-Jm it'S the source Of the
+(Brave custorner
+transaction data. so What
+does it mean? urn is (Brave
+Meetings) uh I I'll be
+sharing my screen and uh
+Show you an example.
+(Brave Meetings) You can
+read the content parasel.
+I'm not going to read it.
+But I can Show (Brave
+Meetings) a very quick
+example Of Eke what a
+data anal uh g uh Google
+(Brave Meetings) analyt
+analytics is. Uh taking
+example Of (Brave
+Meetings) the 10b laws and
+if you log
+(Brave Meetings) into a 10b
+loss uh ignore whether you
+actually (Brave Meetings)
+logged in or nfl Uh you
+will be perform a different
+a series
+(Brave Meetings) Of like
+operatims. You can either
+type the (Brave Meetings)
+search um Eke search iWn
+like (Brave Meetings)
+artichokes and uh you
+go to the product
+(Brave Meetings) listing
+page. right? So like this is
+a product listing page. So
+this is a search
+(Brave oper uh
+operation. Uh by the time
+you you (Brave Meetings)
+cfick uh the search and
+then you are browsing the
+search search result
+(Brave Meetings) of the
+table uh of a query and
+there are different (Brave
+Meetings) operations that
+you can make. You can
+either add to directly.
+(Brave Meetings) So
+there•s a button that you
+can add to cart so that
+pur cart wil be (Brave
+Meetings) updated and
+there's there are also
+options that pu can
+actually click into
+(Brave Meetings) it. Click
+into that will you to
+the product description
+(Brave Meetings) page.
+tffs is the prodwt
+descript description page.
+(Brave Meetings) So um
+those behaviors are
+actually (Brave Meetings)
+recorded by the website
+all the behaviors IVe
+(Brave Meetings) just
+made. So sequentially
+what I did I search the
+(Brave Meetings) items I I
+let's just go back I
+(Brave Meetings) seÜch
+the item I click add to cart
+and I (Brave Meetings)
+cick the item of the first
+product and all of those (Brave Meetings)
+behaviors are tracked by
+G4. so this is Why the
+Google (Brave Meetings)
+Analytics making sense
+to keep the data and to
+record the
+(Brave Meetings) data. so,
+SO that analyst Wi" utiEze
+(Brave Meetings) this data
+to For
+you know, if I'm sharing my
+(Brave Meetings) cookie to
+or to the Google
+Analytics, (Brave
+Meetings) he the Google
+Analyst Will know my
+profile, know like
+(Brave Meetings) which
+customer this I am and uh
+uh What are the (Brave
+Meetings) iterns that I
+searched and What are
+the operations I rna±
+(Brave Meethgs) if I
+check out or not. how
+many items I bought and
+uh (Brave Meetings) so
+that those information all
+are au stored in the
+(Brave Meetings) dat±ase
+GA database and those
+database Will be help us to
+analyze (Brave Meetings)
+for example very very
+straightforward question
+how many customers do
+we have
+(Brave Meetings) for today
+right so lüe we can we can
+Eke (Brave
+Meetings) doing SL
+operations um and then to
+select
+(Brave Meetings) distinct
+number of so
+this is how (Brave
+Meetings) uh JF4 works uh (Brave Meetings) if you
+have time there's some
+interesting thing I want to
+show as well (Brave
+Meetings) uh yeah I'm just
+going to show uh so if I go
+(Brave Meetings) to uh in
+developer (Brave
+Meetings) tools uh I like
+one of the one of the key
+things I
+(Brave Meetings) love
+utilize is not Google
+analytics they use (Brave
+Meetings) snowpaw uh
+snowpaw is also a uh like
+(Brave Meetings) it's it's
+the sarne uh uh
+about the uh to
+(Brave Meetings) the GA
+urn you can see Eke RT
+choke has been actually
+(Brave Meetings) um uh
+has been actually
+by the product (Brave
+Meetings) search event so
+uh the
+(Brave Meetings) this G4
+or let's say snowball
+actually (Brave Meetings)
+records he knows I
+perform a product search
+(Brave Meetings) and he
+also knows they're actually
+you know like (Brave
+Meetings) four five six
+seven Eke they they
+actuaUy know the whole
+(Brave Meetings) artich
+choke herz which this
+items has been (Brave
+Meetings) uh displayed as
+a search result with a
+product quantity one
+product (Brave Meetings) price five
+and the product position
+is so which (&ave
+Meetings) means it
+displays uh as the first
+(Brave Meetings) Of the
+prodLEt search result
+(Brave Meetings) and
+it it also knows if I add
+(Brave Meetings) anything
+to tve cart. So this is just
+the back how how
+how this (Brave Meetings)
+tool works uh on the
+front on on in the
+(Brave Meetings) database
+it Wi" be appearing as a
+one one rule of the
+database (Brave
+saying that me as the
+customer I search for
+I add
+to the
+(Brave Meetings) cart.
+Okay. Um so, uh (Brave
+Meetings) there are many
+there are many alternatives
+for this tool. Uh snowpaw
+is one of the
+(Brave
+alternatives. but the data
+that we will be utüizing is
+gathered by (Brave
+Meetings) the snow uh uh
+GH4. Okay, last but not
+(Brave Meetings) least,
+let's talk more about the
+product logistics. I'm
+already over time. Uh
+(Brave Meetings) I'll be
+finished that in one
+rrinute. Uh so this is
+already mentioned
+(Brave Meetings)
+the uh webinar. I'll be also
+uh just (Brave Meetings)
+repeating very fast. So it's
+the to the to the you Meetings
+to the most of the
+experience uh it's suggest
+to have (Brave
+Meetings) attend the
+Eve sessions to
+learn with the product lead
+uh
+(Brave Meetings) you
+practice on the exercise
+design to help you master
+the knowledge. Normally
+(Brave Meetings) the
+exercise wil starting from
+the second or third week
+of the pr*ct and
+(Brave Meetings) you get
+questions answered in the
+office hour or cfiscussion
+group. You can also (&ave
+Meetings) shoot me a
+message. Ill be trying my
+best to answer. IJm and
+(Brave Meetings) then
+present solution ard gain
+exposure is last but not
+least (Brave step
+where to get all the
+resources so you can
+go
+(Brave Meetings) to the e-
+cornmerce DA project uh
+which is in the corrvtumity
+(Brave uh space
+um and then can also
+ask questions in
+(Brave b&etings) the
+discussion groL4) um so
+these are Ike different
+components (&ave
+of the product
+study uh last but not least
+is some
+(Brave Meetings) logistic
+of session times we will be
+having live session for
+every (Brave Meetings)
+Wednesday at 800 p.m.
+EST and uh we'll be having
+(Brave Meetings) hours.
+I-h optionany we haven't
+decided dependng on the
+(Brave demand.
+I'll probably I'll be also I'll
+be having bi-weekly or or
+weekly  (Brave Meetings)
+depencfing on the uh
+demand. Uh haven't
+decided the date either
+Monday (Brave Meetings)
+or Sunday Wi" be the day
+I'll be having uh office
+hour. We
+(Brave Meetings) can even
+have a vote on the
+preferences of the office
+hour whether (Brave
+Meetings) on Monday
+Sunday. I want to have it
+like a few days
+(Brave Meetings) later uh
+of that project of that
+session. So (&ave
+Meetings) it's either
+two days or three days.
+(Brave Meetings) Um so we
+can adjust the time based
+on the you can
+also (&ave Meetings) let
+me know your preferences.
+Uh so apart frorn that
+(Brave Meetings) um we I
+I'm also (Brave
+Meetings) introducing
+something else is about
+after the project.
+(Brave Meetings) So as you
+may have known that the
+product itself is al is only
+(Brave a uh a
+thing that can help you to
+(Brave Meetings) know
+increase your experience
+and be able to uh tell this
+(Brave Meetings)
+experience well during the
+interview. But in order to
+get a job it's
+(Brave Meetings) it's not
+all about the product itself.
+It's more about how (Brave
+Meetings) to prepare well
+during different kinds of
+interview and also how to
+get more (Brave Meetings)
+interviews by doing
+networkings doing
+referrals. IJm we have
+(Brave Meetings) a
+program
+deSYEd for the you know
+outstandilg performers
+(Brave Meetings) of this
+project after the
+completion of the pr*ct
+that you can (Brave
+Meetings) also ba-vefit
+from our connections by
+getting more interviews
+(Brave Meetings) uh
+more referrals which is
+more interviews and uh
+(Brave Meetings) I hope to
+see you all succeed your in
+this project and then uh
+(Brave Meetings) also
+succeed in the mentorship
+prgects uh later um for
+(Brave Meetings) for those
+only signed up for the
+prgect. Urn but if you I will
+(Brave Meetings) also
+schedule one-on-one
+sessions with the all the all
+the you (Brave Meetings)
+know product leamer of
+this tri during this trial
+(Brave Meetings) to get to
+know about your
+background and see how
+we cm benefit how we can
+help (Brave Meetings) you
+uh during your career uh
+development. Urn
+(Brave Meetings) so that
+it•s about uh that's about
+it and (Brave
+then uh yeål IT be
+reaching out then have a
+(Brave Meetings) evenfr•vg.
+Uh we're 15 minutes past
+the scheduled time.
+(Brave Meetings) I know
+you might be tired. Urn,
+thank you so much for 
