@@ -53,6 +53,9 @@ https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data
 <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/f94f664c-da30-4902-abef-d085f8c05731" />
 The dataset name `bigquery-public-data.ga4_obfuscated_sample_ecommerce` looks intimidating. It just means: *project = `bigquery-public-data`, dataset = `ga4_obfuscated_sample_ecommerce`*. Public datasets live in the shared `bigquery-public-data` project that Google maintains. To make it visible in your sidebar:
 
+
+<img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/3cc7024c-230e-4646-8a15-7ddb0b797094" />
+
 1. In the BigQuery Explorer pane (left side), `Click → "+ ADD" → "Star a project by name"`.
 2. Type `bigquery-public-data` exactly. Click **STAR**.
 3. Expand the new `bigquery-public-data` entry in the sidebar.
