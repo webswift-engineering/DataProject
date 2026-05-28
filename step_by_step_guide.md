@@ -35,6 +35,7 @@ If you already have a personal Gmail, you can use it. If not, create one at http
 **Common mistake:** If Google asks for a credit card, you accidentally tried to enable billing. Close that dialog — you do not need billing for this project.
 
 ### 0.3 Enable BigQuery Sandbox (5 min)
+<img width="2447" height="1292" alt="image" src="https://github.com/user-attachments/assets/72b54d3f-2cfd-4f93-a0e4-691af1eb9f58" />
 
 1. In the left nav, `Click → BigQuery`. (If you don't see it, type "BigQuery" in the top search bar and click the result.)
 2. The first time you open it, BigQuery activates the Sandbox automatically. You'll see a yellow banner at the top that says "Sandbox" — that's good.
